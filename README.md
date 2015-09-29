@@ -13,4 +13,4 @@ that we don't have any unused packages.  We finish by removing the source for
 the command but leaving its dependencies behind.  `gpj` happily identifies the
 unused libraries.
 
-[![Example](https://asciinema.org/a/84hjfs1p4q4xxm7fbzxn2ot1v)
+[![Example](https://asciinema.org/a/84hjfs1p4q4xxm7fbzxn2ot1v.png)](https://asciinema.org/a/84hjfs1p4q4xxm7fbzxn2ot1v)
